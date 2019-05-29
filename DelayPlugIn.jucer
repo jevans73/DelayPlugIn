@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="qci11q" name="DelayPlugIn" projectType="audioplug" jucerVersion="5.4.3">
+  <MAINGROUP id="ObwMvo" name="DelayPlugIn">
+    <GROUP id="{19D88ACC-7B9E-04BC-DFA1-190C5DBDD3D8}" name="Resources">
+      <FILE id="gEqqWh" name="Background2" compile="0" resource="1" file="../../Downloads/Background2"/>
+      <FILE id="OPdCi6" name="Background1" compile="0" resource="1" file="../../Downloads/Background1"/>
+    </GROUP>
+    <GROUP id="{C118A134-ADD9-39E1-3495-056104450590}" name="Source">
+      <FILE id="I4HHzq" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="xWXK9I" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="xpZoki" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="FpyCKe" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="0" name="Release"/>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_cryptography" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../Sdks/JUCE/modules"/>
+        <MODULEPATH id="juce_dsp" path="../Sdks/JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_cryptography" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+  <JUCEOPTIONS JUCE_VST3_CAN_REPLACE_VST2="0" JUCE_STRICT_REFCOUNTEDPOINTER="1"
+               JUCE_PLUGINHOST_VST3="1" JUCE_PLUGINHOST_AU="1" JUCE_FORCE_USE_LEGACY_PARAM_IDS="1"
+               JUCE_FORCE_LEGACY_PARAMETER_AUTOMATION_TYPE="1"/>
+</JUCERPROJECT>
