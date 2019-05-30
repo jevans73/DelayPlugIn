@@ -7,7 +7,9 @@ Simple delay plugin with easy to use GUI
 # Key Features
 Plugin allows you to control 3 parameters
 
-• Gain                    • Time                • Feedback
+• Gain 
+• Time                
+• Feedback
 
 # Plugin Screenshots
 
