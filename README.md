@@ -1,6 +1,6 @@
 # DelayPlugIn
 
-## 133.385 Music Software Development 2 - Second Assessment
+### 133.385 Music Software Development 2 - Second Assessment
 *Created by John Evans*
 
 # Plugin Description
