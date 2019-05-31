@@ -1,32 +1,28 @@
 # DelayPlugIn
-Second Assessment - Published Music Application
+
+## 133.385 Music Software Development 2 - Second Assessment
+*Created by John Evans*
 
 # Plugin Description
 
-Simple delay plugin with easy to use parameters and an aesthetically pleasing GUI
+Delay plugin with an aesthetically pleasing GUI. 
+Allows you to control 3 parameters
+• Gain (%)
+• Time (ms)
+• Feedback (%)
 
 # Key Features
 
-The delay plugin allows you to control three different parameters:
-
-• Gain (wet/dry)             
-• Time (delay time)        
-• Feedback (etc...)
+• VST format
+• Control and automation from your DAW
+• Store and recall plugin-in state
+• Graphical User Interface
 
 # Plugin Screenshots
 
 (Insert screenshots)
-Screen Shot 2019-05-30 at 2.10.39 PM
 
-
-# Install/Usage
-
-# Additional Media
-
-• Appropriate referencing for DSP techniques and algorithms
-• Links to further reading
-
-# Tutorials used:
+# Resources used:
 
 Creating a circular buffer:
 https://www.youtube.com/watch?v=IRFUYGkMV8w
