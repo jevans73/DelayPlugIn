@@ -16,6 +16,7 @@ The delay plugin allows you to control three different parameters:
 # Plugin Screenshots
 
 (Insert screenshots)
+Screen Shot 2019-05-30 at 2.10.39 PM
 
 
 # Install/Usage
