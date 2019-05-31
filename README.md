@@ -5,18 +5,18 @@
 
 # Plugin Description
 
-Delay plugin with an aesthetically pleasing GUI. 
-Allows you to control 3 parameters
-• Gain (%)
-• Time (ms)
+Delay plugin with a user friendly GUI.                  
+Plugin allows you to control 3 parameters:                
+• Gain (%)                  
+• Time (ms)                   
 • Feedback (%)
 
-# Key Features
+# Key Features                    
 
-• VST format
-• Control and automation from your DAW
-• Store and recall plugin-in state
-• Graphical User Interface
+• VST format                      
+• Control and automation from your DAW                          
+• Store and recall plugin-in state                        
+• Graphical User Interface (GUI)
 
 # Plugin Screenshots
 
