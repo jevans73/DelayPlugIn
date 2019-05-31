@@ -20,7 +20,7 @@ Plugin allows you to control 3 parameters:
 
 # Plugin Screenshots
 
-(Insert screenshots)
+<img width="402" alt="Screen Shot 2019-05-30 at 2 10 39 PM" src="https://user-images.githubusercontent.com/48052779/58681222-a6af2880-83bf-11e9-8436-b05ad1a8a5a0.png">
 
 # Resources used:
 
