@@ -2,18 +2,21 @@
 Second Assessment - Published Music Application
 
 # Plugin Description
-Simple delay plugin with easy to use GUI
+
+Simple delay plugin with easy to use parameters and an aesthetically pleasing GUI
 
 # Key Features
-Plugin allows you to control 3 parameters
 
-• Gain                  
-• Time                
-• Feedback
+The delay plugin allows you to control three different parameters:
+
+• Gain (wet/dry)             
+• Time (delay time)        
+• Feedback (etc...)
 
 # Plugin Screenshots
 
 (Insert screenshots)
+
 
 # Install/Usage
 
